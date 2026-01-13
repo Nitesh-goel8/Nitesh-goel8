@@ -10,3 +10,5 @@ Developing full-stack web applications
 Learning DevOps tools for deployment and automation
 
 I’m actively preparing for internship opportunities and looking to collaborate on meaningful tech projects.
+
+<img width="620" height="233" alt="image" src="https://github.com/user-attachments/assets/19ce5e85-b1ac-46ff-9cac-95e18c157d95" />
