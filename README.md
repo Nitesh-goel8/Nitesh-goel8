@@ -4,8 +4,11 @@ I’m a 3rd-year B.Tech CSE student with a strong interest in Data Structures & 
 I’m currently focused on:
 
 Strengthening DSA for interviews and competitive programming
+
 Developing full-stack web applications
+
 Learning DevOps tools for deployment and automation
+
 I’m actively preparing for internship opportunities and looking to collaborate on meaningful tech projects.
 
 ## 💻 Tech Stack
@@ -45,4 +48,10 @@ I’m actively preparing for internship opportunities and looking to collaborate
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white)
+
+## 📊 GitHub Stats
+
+![Nitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
 
