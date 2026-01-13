@@ -4,14 +4,9 @@ I’m a 3rd-year B.Tech CSE student with a strong interest in Data Structures & 
 I’m currently focused on:
 
 Strengthening DSA for interviews and competitive programming
-
 Developing full-stack web applications
-
 Learning DevOps tools for deployment and automation
-
 I’m actively preparing for internship opportunities and looking to collaborate on meaningful tech projects.
-
-## 🛠 Tech Stack
 
 ## 💻 Tech Stack
 
